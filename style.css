@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+
+    background-image: url("wb.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+h1{
+    text-align: center;
+    font-size: 12px;
+    margin-top: 5px;
+    color: aliceblue;
+}
+label{
+    margin-right: 45px;
+    margin-left: 9px;
+    margin-bottom: 8px;
+}
+input{
+    margin-right: 13px;
+    border-radius: 4px;
+    height: 19px;
+    margin-bottom: 8px;
+}
+.f1{
+    width: 95%;
+    margin: auto;
+    padding: 6px;
+    margin-top: 49px;
+    background-color: rgb(145, 94, 59);
+    color: white;
+    font-weight: bold;
+}
+
+ legend{
+    border: 1px solid black;
+    color: azure;
+    border-top-right-radius:15px;
+    border-bottom-left-radius: 15px;
+    padding: 6px;
+    background-color: brown;
+}
